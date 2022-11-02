@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00BF' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00E9' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00A4' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00A8' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00E2' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00AD' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00D3' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00BC' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00C6' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(10): warning C4566: 由通用字元名稱 '\u00A6' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\廖儀珺\desktop\hw\2\source\main.c(44): warning C4715: 'lcm': 不是所有控制路徑都傳回值
+  2.vcxproj -> C:\Users\廖儀珺\Desktop\HW\2\2\2\..\..\temp\debug\2.exe
